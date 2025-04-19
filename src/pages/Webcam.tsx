@@ -6,7 +6,7 @@ import { useEffect, useState, useMemo, useRef } from "react";
 const webcamLinks = [
   { url: "/", label: "Home" },
   { url: "/upload", label: "Upload" },
-  { url: "/webcam", label: "Webcam" },
+  { url: "/cat", label: "Cat" },
 ];
 
 export default function Webcam() {
